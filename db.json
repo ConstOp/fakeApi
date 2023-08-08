@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jess",
+      "email": "Smith@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jess",
+      "aboutMe": "Passionate learner and explorer, seeking wisdom in books and nature. A dreamer, a creator, and a lover of life's wonders."
+    },
+    {
+      "id": 2,
+      "name": "jocelyn",
+      "email": "Emily123@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jocelyn",
+      "aboutMe": "Curious soul with a love for art and music. Always seeking inspiration and beauty in everyday life."
+    },
+    {
+      "id": 3,
+      "name": "jaqueline",
+      "email": "MichaelJohnson@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jaqueline",
+      "aboutMe": "Adventurous spirit with a passion for outdoor sports and adrenaline-fueled activities. Living life to the fullest."
+    },
+    {
+      "id": 4,
+      "name": "jed",
+      "email": "SophiaSmith@yahoo.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jed",
+      "aboutMe": "Bookworm, tea enthusiast, and aspiring writer. Captivated by stories and the magic of words."
+    },
+    {
+      "id": 5,
+      "name": "jabala",
+      "email": "DanielBrown@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jabala",
+      "aboutMe": "Tech geek, gamer, and problem solver. Exploring the digital realm and unraveling its mysteries."
+    },
+    {
+      "id": 6,
+      "name": "jacques",
+      "email": "OliviaGreen@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jacques",
+      "aboutMe": "Nature lover and environmental advocate. Striving to make the world a greener and more sustainable place."
+    },
+    {
+      "id": 7,
+      "name": "jack",
+      "email": "DavidWilliams@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jack",
+      "aboutMe": "Passionate chef with a flair for experimenting in the kitchen. Turning ingredients into works of art."
+    },
+    {
+      "id": 8,
+      "name": "jeri",
+      "email": "EmmaJohnson@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jeri",
+      "aboutMe": "Dreamer with a fascination for the stars and the universe. Exploring the cosmos one telescope at a time."
+    },
+    {
+      "id": 9,
+      "name": "josh",
+      "email": "WilliamJones@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/josh",
+      "aboutMe": "Musician and composer, weaving emotions into melodies. Creating harmonies that resonate with the soul."
+    },
+    {
+      "id": 10,
+      "name": "josephine",
+      "email": "AvaWilson@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/josephine",
+      "aboutMe": "Advocate for social justice and equality. Fighting for a world where every voice is heard and valued."
+    },
+    {
+      "id": 11,
+      "name": "jake",
+      "email": "JamesSmith@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jake",
+      "aboutMe": "Inquisitive mind with a passion for unraveling historical mysteries. Digging into the past to understand the present."
+    },
+    {
+      "id": 12,
+      "name": "jana",
+      "email": "MiaBrown@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jana",
+      "aboutMe": "Artistic soul, capturing emotions through paint and canvas. Turning feelings into visual stories."
+    },
+    {
+      "id": 13,
+      "name": "jenni",
+      "email": "BenjaminClark@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jenni",
+      "aboutMe": "Fitness enthusiast and health advocate. Inspiring others to lead active and vibrant lives."
+    },
+    {
+      "id": 14,
+      "name": "jolee",
+      "email": "IsabellaWhite@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jolee",
+      "aboutMe": "Wanderlust-driven traveler, exploring diverse cultures and embracing the beauty of our world."
+    },
+    {
+      "id": 15,
+      "name": "jai",
+      "email": "EthanMiller@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jai",
+      "aboutMe": "Tech-savvy problem solver, dismantling and reassembling gadgets to understand their inner workings."
+    },
+    {
+      "id": 16,
+      "name": "joe",
+      "email": "CharlotteDavis@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/joe",
+      "aboutMe": "Animal lover and wildlife conservationist. Protecting Earth's creatures and their habitats."
+    },
+    {
+      "id": 17,
+      "name": "jeane",
+      "email": "AlexanderMartin@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jeane",
+      "aboutMe": "Explorer of the written word, diving into the realms of fiction and non-fiction alike."
+    },
+    {
+      "id": 18,
+      "name": "jon",
+      "email": "GraceAnderson@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jon",
+      "aboutMe": "Champion of mindfulness and self-care. Nurturing the mind, body, and spirit for a balanced life."
+    },
+    {
+      "id": 19,
+      "name": "jodi",
+      "email": "JacksonWilson@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jodi",
+      "aboutMe": "Adventurous traveler and foodie, savoring the tastes of the world and embracing cultural experiences."
+    },
+    {
+      "id": 20,
+      "name": "jude",
+      "email": "ChloeRobinson@gmail.com",
+      "avatarUrl": "https://joesch.moe/api/v1/jude",
+      "aboutMe": "Fashion enthusiast and trendsetter. Crafting unique styles and expressing personality through clothing."
+    }
+  ]
+}
